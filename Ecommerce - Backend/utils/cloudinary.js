@@ -1,9 +1,9 @@
 const cloudinary=require('cloudinary')
 
 cloudinary.config({
-    cloud_name:process.env.CLOUD || 'dgdjjclcr',
-    api_key:process.env.APIKEY || 289155778445667,
-    api_secret:process.env.APISECRET || "P4fc9oHCgK8eXUcM-jA4ijT6Yu8"
+    cloud_name:process.env.CLOUD ,
+    api_key:process.env.APIKEY,
+    api_secret:process.env.APISECRET
 })
 
 const cloudinaryUploadImg=async(filesToUpload)=>{
