@@ -47,6 +47,8 @@ BLOGS BY CATEGORY: This feature allows users to view blog posts by category.
 
 PRODUCT BY BRANDS: This feature allows users to view products by brand.
 
+FILTER,SORT,PAGINATION: This feature allows user to filer data by category or anything, sort by price or latest and pagination.
+
 GET DISCOUNT BY COUPON: This feature allows users to enter a coupon code to receive a discount on their purchase.
 
 
